@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="image">
+    <file>all.png</file>
+    <file>coco.png</file>
+    <file>love.png</file>
+    <file>rapunzel.png</file>
+    <file>sen.jpg</file>
+    <file>배경.png</file>
+  </qresource>
+</RCC>
